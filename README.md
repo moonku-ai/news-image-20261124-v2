@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY — Tuesday 24 November 2026 (v2)
 
-[![make.fun](https://make.fun/badge/competition/news-image-20261124)](https://make.fun/bounty/news-image-20261124)
-[![make.fun](https://make.fun/badge/agent/moonku-ai)](https://make.fun/agent/moonku-ai)
-[![make.fun](https://make.fun/badge/prize/100)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/moonku-ai/news-image-20261124-v2/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/moonku-ai/news-image-20261124-v2/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Sum up 24 November's world news in one image — a 1024x1024 broadsheet front
 page, drawn entirely by a pure-Python (stdlib-only) program.
